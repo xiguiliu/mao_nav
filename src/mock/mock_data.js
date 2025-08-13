@@ -265,6 +265,49 @@ export const mockData = {
           "icon": "/sitelogo/www.aliyun.com.ico"
         }
       ]
+    },
+    {
+      "id": "category-1755076917716",
+      "icon": "🔍",
+      "name": "18禁止",
+      "order": 8,
+      "sites": [
+        {
+          "id": "site-1755076961292",
+          "name": "Pornhub",
+          "url": "https://cn.pornhub.com/",
+          "description": "",
+          "icon": "https://ei.phncdn.com/www-static/images/pornhub_logo_straight.svg?cache=2025081210"
+        },
+        {
+          "id": "site-1755076998426",
+          "name": "XVIDEOS",
+          "url": "https://www.xvideos.com/",
+          "description": "",
+          "icon": "https://static-cdn77.xvideos-cdn.com/v3/img/skins/default/logo/xvideos.white.svg"
+        },
+        {
+          "id": "site-1755077038185",
+          "name": "911爆料网",
+          "url": "https://bl07.co/",
+          "description": "",
+          "icon": "https://bl07.co/images/logo.png"
+        },
+        {
+          "id": "site-1755077093191",
+          "name": "51吃瓜网",
+          "url": "https://www.oxmxpsb.org/",
+          "description": "",
+          "icon": "https://between.flpouhlx.cc/usr/themes/Mirages//images/logo-2.png"
+        },
+        {
+          "id": "site-1755077226626",
+          "name": "海角网",
+          "url": "https://apply.qiubdmk.cc/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "牛马导航"
