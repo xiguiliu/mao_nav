@@ -198,6 +198,13 @@ export const mockData = {
           "url": "https://hub.atk.pro",
           "description": "",
           "icon": "https://hub.atk.pro/logo-plus.svg"
+        },
+        {
+          "id": "site-1755076763363",
+          "name": "检表模板",
+          "url": "https://jbyymb.pages.dev/",
+          "description": "",
+          "icon": "https://img0.baidu.com/it/u=3348497321,183663902&fm=253&fmt=auto&app=120&f=JPEG?w=800&h=800"
         }
       ]
     },
