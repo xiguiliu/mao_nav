@@ -85,6 +85,41 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "/sitelogo/www.52pojie.cn.ico"
+        },
+        {
+          "id": "site-1755074953116",
+          "name": "宝可梦",
+          "url": "https://web2.52pokemon.cc/plan",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1755074981053",
+          "name": "CC宝盒",
+          "url": "https://ccbaohe.com/",
+          "description": "",
+          "icon": "https://ccbaohe.com/static/images/logo-38.png"
+        },
+        {
+          "id": "site-1755075060264",
+          "name": "IC客栈",
+          "url": "http://www.ickezhan.com/bbs/",
+          "description": "",
+          "icon": "http://www.ickezhan.com/bbs/static/image/common/logo.png"
+        },
+        {
+          "id": "site-1755075114515",
+          "name": "4K高清壁纸",
+          "url": "https://haowallpaper.com/",
+          "description": "",
+          "icon": "https://haowallpaper.com/favicon.ico"
+        },
+        {
+          "id": "site-1755075180996",
+          "name": "软鸭PLAY",
+          "url": "https://moyu.clbug.com/",
+          "description": "",
+          "icon": "\thttps://57cool.oss-cn-chengdu.aliyuncs.com/SoftDuckResourceBank/file/home-bg.png"
         }
       ]
     },
