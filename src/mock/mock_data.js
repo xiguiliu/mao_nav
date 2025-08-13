@@ -63,7 +63,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 6,
+      "order": 4,
       "sites": [
         {
           "id": "linuxdo",
@@ -83,10 +83,53 @@ export const mockData = {
     },
     {
       "id": "learning",
-      "name": "学习资源",
+      "name": "开发文档",
       "icon": "📚",
-      "order": 6,
-      "sites": []
+      "order": 5,
+      "sites": [
+        {
+          "id": "site-1755074066255",
+          "name": "Layui",
+          "url": "https://layui.dev/",
+          "description": "",
+          "icon": "\thttps://res.layui.dev/static/images/layui/logo.png"
+        },
+        {
+          "id": "site-1755074104705",
+          "name": "VUE",
+          "url": "https://cn.vuejs.org/",
+          "description": "",
+          "icon": "\thttps://avatars.githubusercontent.com/u/6128107?s=200&v=4"
+        },
+        {
+          "id": "site-1755074183114",
+          "name": "TDesign",
+          "url": "https://tdesign.tencent.com/mobile-vue/overview",
+          "description": "",
+          "icon": "https://camo.githubusercontent.com/c08fe2713719c00383054225d5a64a827f0c896ffb289feecb69ca081a89a338/68747470733a2f2f7464657369676e2e6774696d672e636f6d2f736974652f5444657369676e2e706e67"
+        },
+        {
+          "id": "site-1755074279182",
+          "name": "Eleadmin",
+          "url": "https://eleadmin.com/doc/eleadminpro/#/",
+          "description": "",
+          "icon": "https://eleadmin.com/assets/images/logo.svg"
+        },
+        {
+          "id": "site-1755074314942",
+          "name": "Ant Design Vue",
+          "url": "https://next.antdv.com/components/overview-cn/",
+          "description": "",
+          "icon": "https://next.antdv.com/assets/logo.1ef800a8.svg"
+        },
+        {
+          "id": "site-1755074354606",
+          "name": "Markdown",
+          "url": "https://markdown.com.cn/",
+          "description": "",
+          "icon": "https://markdown.com.cn/hero.png"
+        }
+      ]
     }
   ],
   "title": "牛马导航"
