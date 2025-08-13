@@ -120,6 +120,13 @@ export const mockData = {
           "url": "https://moyu.clbug.com/",
           "description": "",
           "icon": "\thttps://57cool.oss-cn-chengdu.aliyuncs.com/SoftDuckResourceBank/file/home-bg.png"
+        },
+        {
+          "id": "site-1755075459829",
+          "name": "白嫖",
+          "url": "https://www.iiice.cn/",
+          "description": "",
+          "icon": "https://img.meituan.net/csc/41034187dfd3edf625adf95d12764ab54850.png"
         }
       ]
     },
@@ -206,6 +213,42 @@ export const mockData = {
           "url": "https://hub.atk.pro",
           "description": "",
           "icon": "https://hub.atk.pro/logo-plus.svg"
+        }
+      ]
+    },
+    {
+      "id": "category-1755075342805",
+      "icon": "🎵",
+      "name": "视频娱乐",
+      "order": 8,
+      "sites": [
+        {
+          "id": "site-1755075380914",
+          "name": "VIP视频解析",
+          "url": "https://www.pppabc.com/vip/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1755075492399",
+          "name": "夸克短剧",
+          "url": "https://www.kuakema.com/?id=0",
+          "description": "",
+          "icon": "https://www.kuakema.com/zb_users/upload/2024/11/202411211732171776630929.png"
+        },
+        {
+          "id": "site-1755075547869",
+          "name": "皮皮鲨",
+          "url": "https://www.pipisha.cc/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1755075619275",
+          "name": "LibreTV",
+          "url": "https://libretv-51m.pages.dev/",
+          "description": "",
+          "icon": "https://raw.githubusercontent.com/LibreSpark/LibreTV/main/image/logo.png"
         }
       ]
     }
