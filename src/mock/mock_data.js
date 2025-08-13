@@ -333,14 +333,14 @@ export const mockData = {
           "name": "山己几子木",
           "url": "https://msdn.sjjzm.com/win11.html",
           "description": "下载系统镜像的网站",
-          "icon": "https://cdn.sjjzm.com/favicon.ico"
+          "icon": "https://img1.baidu.com/it/u=3610081022,2417760409&fm=253&fmt=auto&app=138&f=JPEG?w=570&h=378"
         },
         {
           "id": "site-1755078938693",
           "name": "KMS",
           "url": "https://kms.cx/",
           "description": "系统在线激活",
-          "icon": ""
+          "icon": "https://img1.baidu.com/it/u=3610081022,2417760409&fm=253&fmt=auto&app=138&f=JPEG?w=570&h=378"
         }
       ]
     }
