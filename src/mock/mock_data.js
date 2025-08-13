@@ -19,28 +19,13 @@ export const mockData = {
           "url": "https://chat.openai.com",
           "description": "OpenAI对话AI助手",
           "icon": "/sitelogo/chat.openai.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "cloud",
-      "name": "云服务",
-      "icon": "☁️",
-      "order": 2,
-      "sites": [
-        {
-          "id": "cloudflare",
-          "name": "Cloudflare",
-          "url": "https://www.cloudflare.com",
-          "description": "全球CDN和网络安全服务",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
         },
         {
-          "id": "aliyun",
-          "name": "阿里云",
-          "url": "https://www.aliyun.com",
-          "description": "阿里巴巴云计算",
-          "icon": "/sitelogo/www.aliyun.com.ico"
+          "id": "site-1755075776168",
+          "name": "豆包",
+          "url": "https://www.doubao.com/chat/",
+          "description": "",
+          "icon": "https://gimg3.baidu.com/topone/src=https%3A%2F%2Fbkimg.cdn.bcebos.com%2Fsmart%2F7dd98d1001e93901213f5b9bfbb543e736d12f2e3846-bkimg-process%2Cv_1%2Crw_1%2Crh_1%2Cmaxl_800%2Cpad_1%3Fx-bce-process%3Dimage%2Fresize%2Cm_pad%2Cw_348%2Ch_348%2Ccolor_ffffff&refer=http%3A%2F%2Fwww.baidu.com&app=2011&size=f200,200&n=0&g=0n&er=404&q=75&fmt=auto&maxorilen2heic=2000000?sec=1755190800&t=2acdc8d7cd0b6f5647fde227b1d591ea"
         }
       ]
     },
@@ -48,7 +33,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 3,
+      "order": 2,
       "sites": [
         {
           "id": "github",
@@ -70,7 +55,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 4,
+      "order": 3,
       "sites": [
         {
           "id": "linuxdo",
@@ -91,7 +76,7 @@ export const mockData = {
           "name": "宝可梦",
           "url": "https://web2.52pokemon.cc/plan",
           "description": "",
-          "icon": ""
+          "icon": "https://img1.baidu.com/it/u=1714259134,1057431677&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"
         },
         {
           "id": "site-1755074981053",
@@ -105,7 +90,7 @@ export const mockData = {
           "name": "IC客栈",
           "url": "http://www.ickezhan.com/bbs/",
           "description": "",
-          "icon": "http://www.ickezhan.com/bbs/static/image/common/logo.png"
+          "icon": "http://www.ickezhan.com/img/logo.png"
         },
         {
           "id": "site-1755075114515",
@@ -134,7 +119,7 @@ export const mockData = {
       "id": "learning",
       "name": "开发文档",
       "icon": "📚",
-      "order": 5,
+      "order": 4,
       "sites": [
         {
           "id": "site-1755074066255",
@@ -191,7 +176,7 @@ export const mockData = {
       "id": "category-1755074568589",
       "icon": "🌐",
       "name": "在线工具",
-      "order": 7,
+      "order": 5,
       "sites": [
         {
           "id": "site-1755074611967",
@@ -220,14 +205,14 @@ export const mockData = {
       "id": "category-1755075342805",
       "icon": "🎵",
       "name": "视频娱乐",
-      "order": 8,
+      "order": 6,
       "sites": [
         {
           "id": "site-1755075380914",
           "name": "VIP视频解析",
           "url": "https://www.pppabc.com/vip/",
           "description": "",
-          "icon": ""
+          "icon": "https://gimg3.baidu.com/topone/src=https%3A%2F%2Fbkimg.cdn.bcebos.com%2Fsmart%2F91ef76c6a7efce1b9d162a80320be4deb48f8c54cf7c-bkimg-process%2Cv_1%2Crw_1%2Crh_1%2Cmaxl_800%2Cpad_1%3Fx-bce-process%3Dimage%2Fresize%2Cm_pad%2Cw_348%2Ch_348%2Ccolor_ffffff&refer=http%3A%2F%2Fwww.baidu.com&app=2011&size=w931&n=0&g=0n&er=404&q=75&fmt=auto&maxorilen2heic=2000000?sec=1755190800&t=84b5ffebfeb15277fcaeb49ed2bfcca4"
         },
         {
           "id": "site-1755075492399",
@@ -241,7 +226,7 @@ export const mockData = {
           "name": "皮皮鲨",
           "url": "https://www.pipisha.cc/",
           "description": "",
-          "icon": ""
+          "icon": "https://img0.baidu.com/it/u=2273726676,1009029310&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"
         },
         {
           "id": "site-1755075619275",
@@ -249,6 +234,28 @@ export const mockData = {
           "url": "https://libretv-51m.pages.dev/",
           "description": "",
           "icon": "https://raw.githubusercontent.com/LibreSpark/LibreTV/main/image/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "云服务",
+      "icon": "☁️",
+      "order": 7,
+      "sites": [
+        {
+          "id": "cloudflare",
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com",
+          "description": "全球CDN和网络安全服务",
+          "icon": "/sitelogo/www.cloudflare.com.ico"
+        },
+        {
+          "id": "aliyun",
+          "name": "阿里云",
+          "url": "https://www.aliyun.com",
+          "description": "阿里巴巴云计算",
+          "icon": "/sitelogo/www.aliyun.com.ico"
         }
       ]
     }
