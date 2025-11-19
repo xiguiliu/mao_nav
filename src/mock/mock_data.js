@@ -276,6 +276,13 @@ export const mockData = {
           "url": "https://www.douyin.com/",
           "description": "",
           "icon": "https://img0.baidu.com/it/u=360921970,1201638078&fm=253&fmt=auto&app=138&f=PNG?w=500&h=500"
+        },
+        {
+          "id": "site-1763542289868",
+          "name": "达达趣",
+          "url": "https://www.dadaqu.cc/",
+          "description": "",
+          "icon": "https://www.dadaqu.cc/mxtheme/images/logo_black.png"
         }
       ]
     },
@@ -345,7 +352,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "牛马导航",
-  "_fileSha": "2ec260b9f6ce29c562b8af126a6a15791d9ee943",
-  "search": "google"
+  "title": "牛马导航"
 }
