@@ -197,6 +197,13 @@ export const mockData = {
           "url": "https://markdown.com.cn/",
           "description": "",
           "icon": "https://markdown.com.cn/hero.png"
+        },
+        {
+          "id": "site-1763976829442",
+          "name": "EleAdmin",
+          "url": "https://eleadmin.com/",
+          "description": "",
+          "icon": "https://eleadmin.com/assets/images/logo.svg"
         }
       ]
     },
