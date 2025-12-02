@@ -240,6 +240,12 @@ export const mockData = {
           "url": "https://jbyymb.pages.dev/",
           "description": "",
           "icon": "https://img0.baidu.com/it/u=3348497321,183663902&fm=253&fmt=auto&app=120&f=JPEG?w=800&h=800"
+        },
+        {
+          "id": "site-1764649802907",
+          "name": "纸由我",
+          "url": "https://paperme.toolooz.com/",
+          "description": ""
         }
       ]
     },
